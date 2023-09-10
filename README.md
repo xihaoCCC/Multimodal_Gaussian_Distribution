@@ -5,7 +5,7 @@ In this project, I began by generating synthetic data that follows a multimodal 
 
 
 ## Installation
-The project is coded in Python 3, and please see the necessary packages in the main.ipynb.
+This project is developed using Python 3. Refer to `main.ipynb` for the required packages.
 
 
 ## File Descriptions
