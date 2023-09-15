@@ -10,7 +10,7 @@ This project is developed using Python 3. Refer to `main.ipynb` for the required
 
 ## File Descriptions
 - `main.ipynb`: Python notebook responsible for data generation and model construction.
-- `fit_gaussian.pdf`: PDF export of the `main.ipynb` notebook.
+- `fit_gaussian.html`: HTML export of the `main.ipynb` notebook.
 - `presentation.mp4`: A brief video presentation discussing the work and key concepts of the project.
 
 
