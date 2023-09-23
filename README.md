@@ -4,7 +4,7 @@
 In this project, I began by generating synthetic data that follows a multimodal Gaussian distribution with specified parameters. I then constructed various machine learning models to approximate this multimodal Gaussian distribution, subsequently comparing their accuracies and execution times.
 
 
-## Installation
+## Setup
 This project is developed using Python 3. Refer to `main.ipynb` for the required packages.
 
 
